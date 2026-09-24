@@ -1,4 +1,8 @@
 ---
+genres:
+  - arcade
+  - action
+  - casual
 directors_cut: https://mp9802182-code.github.io/unicorn-space-dodger/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
